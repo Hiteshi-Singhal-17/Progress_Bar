@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlersDemo</string>
+    <string name="Button_title">Click</string>
+    <string name="header_text_view">Handler ProgressBar</string>
+</resources>
